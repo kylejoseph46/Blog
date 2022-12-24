@@ -1,1 +1,1 @@
-Weekly Blog to improve my React and CSS skills.
+Weekly Blog written in React to improve my CSS skills.
